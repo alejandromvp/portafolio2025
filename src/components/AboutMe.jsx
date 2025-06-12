@@ -76,7 +76,7 @@ const aboutMeContent = {
   },
   en: {
     title: 'Sobre Mí',
-    greeting: `Hello! I'm Alejandro Villagrán, a full-stack developer with over four years of experience developing innovative digital solutions. A computer science engineer from the Catholic University of Temuco, I've had the opportunity to work in critical sectors such as healthcare, fintech, and retail, transforming ideas into digital experiences that impact the lives of thousands of users. My passion for technology drives me to constantly learn, applying best practices to deliver clean and maintainable code.`,
+    greeting: `Hello! I'm Alejandro Villagrán, a fullStack developer with over four years of experience developing innovative digital solutions. A computer science engineer from the Catholic University of Temuco, I've had the opportunity to work in critical sectors such as healthcare, fintech, and retail, transforming ideas into digital experiences that impact the lives of thousands of users. My passion for technology drives me to constantly learn, applying best practices to deliver clean and maintainable code.`,
     program: '',
     passion: '',
     experienceIntro: 'During my professional career as a Full Stack Developer, I have gained solid experience working with technologies from the JavaScript/TypeScript ecosystem, including ',
