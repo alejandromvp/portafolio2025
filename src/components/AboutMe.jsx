@@ -43,7 +43,7 @@ const aboutMeContent = {
              • Módulo de Electrofisiología: Diseñé e implementé una solución especializada para el monitoreo y seguimiento de pacientes con dispositivos cardíacos implantables, incluyendo gestión de configuraciones técnicas, agendamiento automatizado de controles y generación de informes analíticos.
              • Sistema de Gestión de Camas: Desarrollé un sistema de administración en tiempo real de la capacidad hospitalaria, optimizando la asignación de recursos, reduciendo tiempos de espera y mejorando la eficiencia operativa de toda la red de camas del hospital.
              
-             Aptitudes: Laravel · Vue.js · Git · PL/SQL · Bootstrap · TypeScript · PHP`
+             Aptitudes: Laravel · Vue.js · React · Git · PL/SQL · Bootstrap · TypeScript · PHP`
       },
       {
         id: 2,
@@ -56,7 +56,7 @@ const aboutMeContent = {
               • Renovación del look & feel de la app, con un diseño fresco, moderno y fácil de usar, también se reorganizaron las funcionalidades para darle mayor escalabilidad y aumentar la visibilidad de los productos principales de la App.
               • Desarrollo de transferencia a terceros como nueva funcionalidad para la App Chek
               
-              Aptitudes: Angular · Google Cloud · Ionic Framework · Firebase · NestJS · TypeScript · Git · Node.js · JIRA`
+              Aptitudes: Angular · React · Google Cloud · Ionic Framework · Firebase · NestJS · TypeScript · Git · Node.js · JIRA`
       },
       {
         id: 3,
