@@ -6,7 +6,7 @@ import {
   SiHtml5, SiCss3, SiReact, SiBootstrap, SiPhp, SiJavascript, SiTailwindcss,
   SiMysql, SiMongodb, SiPostgresql, SiGit, SiNodedotjs,
   SiGithub, SiVercel, SiPostman, SiDocker, SiAngular, SiJquery,
-  SiTypescript, SiNextdotjs, SiExpress, SiAmazon, SiFigma, SiJest
+  SiTypescript, SiNextdotjs, SiExpress, SiAmazon, SiFigma, SiJest, SiPython
 } from 'react-icons/si';
 import { FaCode, FaServer } from 'react-icons/fa';
 
@@ -21,7 +21,8 @@ const techs = [
   { name: 'Tailwind', icon: SiTailwindcss, color: 'text-sky-300' },
   { name: 'TypeScript', icon: SiTypescript, color: 'text-blue-600' },
   { name: 'Docker', icon: SiDocker, color: 'text-blue-400' },
-  { name: 'AWS', icon: SiAmazon, color: 'text-blue-400' },
+  { name: 'React', icon: SiReact, color: 'text-sky-400' },
+  { name: 'Next.js', icon: SiNextdotjs, color: 'text-black dark:text-white' },
   
 ];
 const databases = [
@@ -43,8 +44,9 @@ const tools = [
   { name: 'Jest', icon: SiJest, color: 'text-red-600' },
 ];
 const learning = [
-  { name: 'React', icon: SiReact, color: 'text-sky-400' },
-  { name: 'Next.js', icon: SiNextdotjs, color: 'text-black dark:text-white' },
+  { name: 'AWS', icon: SiAmazon, color: 'text-blue-400' },
+  { name: 'Python', icon: SiPython, color: 'text-blue-400' },
+  
 ];
 
 // TEXTOS PARA i18n
