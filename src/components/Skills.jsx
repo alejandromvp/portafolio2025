@@ -6,7 +6,7 @@ import {
   SiHtml5, SiCss3, SiReact, SiBootstrap, SiPhp, SiJavascript, SiTailwindcss,
   SiMysql, SiMongodb, SiPostgresql, SiGit, SiNodedotjs,
   SiGithub, SiVercel, SiPostman, SiDocker, SiAngular, SiJquery,
-  SiTypescript, SiNextdotjs, SiExpress, SiAmazon, SiFigma, SiJest, SiPython, SiVuejs
+  SiTypescript, SiNextdotjs, SiExpress, SiAmazon, SiFigma, SiJest, SiPython, SiVuedotjs
 } from 'react-icons/si';
 import { FaCode, FaServer } from 'react-icons/fa';
 
@@ -23,7 +23,7 @@ const techs = [
   { name: 'Docker', icon: SiDocker, color: 'text-blue-400' },
   { name: 'React', icon: SiReact, color: 'text-sky-400' },
   { name: 'Next.js', icon: SiNextdotjs, color: 'text-black dark:text-white' },
-  { name: 'Vue.js', icon: SiVuejs, color: 'text-green-500' },
+  { name: 'Vue.js', icon: SiVuedotjs, color: 'text-green-500' },
   
   
 ];
