@@ -72,6 +72,16 @@ const aboutMeContent = {
 
           Aptitudes: iOS · Modelo–vista–modelo de vista (MVVM) · Git · SwiftUI · Swift (lenguaje de programación) · JIRA`
       },
+      {
+        id: 4,
+        type: 'work', // Tipo de hito
+        title: 'Desarrollador Frontend',
+        period: 'junio 2025 - Actual',
+        institution: 'Isapre Colmena',
+        description: `Formé parte del equipo de Isapre colmena en donde contruimos el sistema de beneficiarios, este sistema consiste en poder darle acceso a los beneficiarios que tiene asociado el afiliado como carga, y estos puedan ver sus beneficios asi como tambien poder aceder a compra de bonos entre otras ventajas.
+
+          Aptitudes: Angular · Boostrap · Git · Java  · JIRA`
+      },
     ],
   },
   en: {
